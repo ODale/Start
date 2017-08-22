@@ -7,7 +7,7 @@ using Android.OS;
 
 namespace XamPaintMultiTouch
 {
-	[Activity (Label = "XamPaintMultiTouch", MainLauncher = true, Icon = "@drawable/icon")]
+	[Activity (Label = "Xamarin Paint MultiTouch", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
 		protected override void OnCreate (Bundle bundle)
